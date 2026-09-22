@@ -1,0 +1,22 @@
+{
+  "incident_id": "WU-INC-2026-001",
+  "incident_type": "service_disruption",
+  "status": "under_review",
+  "reported_at": "2026-09-22T09:30:00Z",
+  "service_area": {
+    "area_id": "SA-104",
+    "name": "North Service Zone",
+    "estimated_accounts_affected": 1250
+  },
+  "operational_summary": {
+    "field_team_status": "assigned",
+    "advisory_review_required": true,
+    "restoration_estimate": "pending verification"
+  },
+  "governance": {
+    "review_state": "draft",
+    "evidence_required": true,
+    "public_message_approved": false
+  },
+  "notice": "Fictional demonstration data only."
+}
